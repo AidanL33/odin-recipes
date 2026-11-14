@@ -55,7 +55,8 @@ p {
 /* Recipes */
 
 .sushi-main,
-.burger-main {
+.burger-main,
+.brownie-main {
   display: block;
   margin: 0 auto;
   max-width: 100%;
@@ -63,21 +64,24 @@ p {
 }
 
 #sushi-description,
-#burger-description {
+#burger-description,
+#brownie-description {
   text-align: center;
   margin-top: 30px;
   margin-bottom: 20px;
 }
 
 #sushi-ingredients,
-#burger-ingredients {
+#burger-ingredients,
+#brownie-ingredients {
   text-align: center;
   margin-top: 48px;
   margin-bottom: 20px;
 }
 
 #sushi-instructions,
-#burger-instructions {
+#burger-instructions,
+#brownie-instructions {
   text-align: center;
   margin-top: 48px;
   margin-bottom: 20px;
