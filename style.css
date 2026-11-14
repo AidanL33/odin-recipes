@@ -52,28 +52,32 @@ p {
   font-size: 20px;
 }
 
-/* Sushi */
+/* Recipes */
 
-.sushi-main {
+.sushi-main,
+.burger-main {
   display: block;
   margin: 0 auto;
   max-width: 100%;
   height: auto;
 }
 
-#sushi-description {
+#sushi-description,
+#burger-description {
   text-align: center;
   margin-top: 30px;
   margin-bottom: 20px;
 }
 
-#sushi-ingredients {
+#sushi-ingredients,
+#burger-ingredients {
   text-align: center;
   margin-top: 48px;
   margin-bottom: 20px;
 }
 
-#sushi-instructions {
+#sushi-instructions,
+#burger-instructions {
   text-align: center;
   margin-top: 48px;
   margin-bottom: 20px;
@@ -89,6 +93,8 @@ p {
 .steps {
   display: block;
   margin: 10px auto;
-  max-width: 500px;
+  max-width: 600px;
   height: auto;
+  font-size: 18px;
+  line-height: 1.6;
 }
